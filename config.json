@@ -1,0 +1,6 @@
+{
+    "player_speed": 5,
+    "bullet_speed": -10,
+    "enemy_speed_range": [1, 8],
+    "powerup_duration": 5000
+}
